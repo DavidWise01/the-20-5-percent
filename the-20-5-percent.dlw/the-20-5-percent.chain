@@ -4,6 +4,6 @@ slug  : the-20-5-percent
 seal  : 04961162b061a4194b39ecfaecef65dde552d3bc6a1dbbf5b71d96f76c296fef
 prev  : 0ae09d2510a4bdc4fd67128479f6258f11363ee02087cff62a0dbc0dc48d68b7
 link  : b8f54cadf7da883be1b3961a0c7dba86dee7f9792817277de7d5a40294784b5a
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
